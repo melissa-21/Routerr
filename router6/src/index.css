@@ -1,0 +1,21 @@
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        text-align: center;
+
+    }
+
+
+    .menu {
+
+        font-family:"Baskerville Old Face";
+        font-size: 30px;
+
+
+
+    }
+
+    body {
+        background-color: beige;
+    }
